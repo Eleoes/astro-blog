@@ -1,0 +1,26 @@
+{
+  "name": "astro-blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eleoes/astro-blog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eleoes/astro-blog/issues"
+  },
+  "homepage": "https://github.com/Eleoes/astro-blog#readme",
+  "dependencies": {
+    "astro": "^1.9.1"
+  }
+}
